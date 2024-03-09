@@ -1,1 +1,5 @@
-ur sus
+#include <iostream>
+
+int main(){
+    
+}
